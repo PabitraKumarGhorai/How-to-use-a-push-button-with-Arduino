@@ -1,0 +1,2 @@
+# How-to-use-a-push-button-with-Arduino
+The pushbutton is a component that connects two points in a circuit when you press it. The example turns on an LED when you press the button.  We connect three wires to the Arduino board. The first goes from one leg of the pushbutton through a pull-up resistor (here 1 KOhms) to the 5 volt supply. The second goes from the corresponding leg of the push button to ground. The third connects to a digital i/o pin (here pin 4) which reads the button's state. For more Information visit my YouTube channel link:
